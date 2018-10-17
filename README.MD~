@@ -1,3 +1,2 @@
-#Pøíštì si dáme òákej testíèek
-
-Dùleitı repozitáø s vìcmi C#
+#PÅ™Ã­Å¡tÄ› si dÃ¡me ÅˆÃ¡kej testÃ­Äek
+DÅ¯leÅ¾itÃ½ repozitÃ¡Å™ s vÄ›cmi C#
