@@ -1,0 +1,9 @@
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\bin\Debug\DiskriminaceGTK.exe.config
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\bin\Debug\DiskriminaceGTK.exe
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\bin\Debug\DiskriminaceGTK.pdb
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\obj\Debug\DiskriminaceGTK.csprojResolveAssemblyReference.cache
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\obj\Debug\DiskriminaceGTK.Properties.Resources.resources
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\obj\Debug\DiskriminaceGTK.csproj.GenerateResource.Cache
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\obj\Debug\DiskriminaceGTK.exe
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\obj\Debug\DiskriminaceGTK.pdb
+H:\upg\2-zwei\PrumerMinMaxACoNe\DiskriminaceGTK\DiskriminaceGTK\obj\Debug\DiskriminaceGTK.Form1.resources
